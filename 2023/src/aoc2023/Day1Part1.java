@@ -1,6 +1,6 @@
 package aoc2023;
 
-public class Day1 {
+public class Day1Part1 {
 
 	public static int calibrationValue(String s) {
 		int result = 0;
