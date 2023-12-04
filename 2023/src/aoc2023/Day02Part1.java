@@ -2,7 +2,6 @@ package aoc2023;
 
 import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Map;
 
 class Round {
@@ -58,7 +57,7 @@ class DiceGame{
 	
 }
 
-public class Day2Part1 {
+public class Day02Part1 {
 
 	public static final String INPUT_NAME = "input_day2.txt";
 	

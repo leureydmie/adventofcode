@@ -22,7 +22,7 @@ class DiceGame2 extends DiceGame{
 	
 }
 
-public class Day2Part2 {
+public class Day02Part2 {
 
 	public static final String INPUT_NAME = "input_day2.txt";
 	

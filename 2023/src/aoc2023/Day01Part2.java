@@ -3,7 +3,7 @@ package aoc2023;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Day1Part2 {
+public class Day01Part2 {
 	
 	public static int textCalibrationValue(String s, boolean reverse) {
 		
