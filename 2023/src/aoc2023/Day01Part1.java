@@ -30,7 +30,7 @@ public class Day01Part1 {
 		/*
 		 * PART ONE
 		 */	
-		FileScanner fs = new FileScanner("input.txt");
+		FileScanner fs = new FileScanner("input_day01.txt");
 		int result = 0;
 		String s = "";
 		while(null != s){
